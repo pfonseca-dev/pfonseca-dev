@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B0000"/>
+
 #  Pedro Fonseca
 
 **`Developer AI`**
@@ -6,42 +8,22 @@ Me chamo Pedro Fonseca Martins, tenho 19 anos e sou natural de Minas Gerais. Con
 
 Sou apaixonado por tecnologia e, nos últimos tempos, venho me aprofundando na área de IA — especialmente no desenvolvimento de agentes inteligentes e soluções autônomas. Gosto de compartilhar meus aprendizados e projetos, seja pelo [GitHub](https://github.com/pfonseca-dev), [LinkedIn](https://www.linkedin.com/in/pedrof-martins/) ou até mostrando um pouco dos bastidores no [Instagram](https://www.instagram.com/fonsecaa.dev).
 
+  [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&titles=true)](https://www.instagram.com/fonsecaa.dev)
+  [![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/pedrof-martins/)
+
 ---
 
 ### Skills
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,python,javascript,c,arduino"
+    />
+  </a>
+</p>
+
 
 <br/>
 <br/>
@@ -58,10 +40,15 @@ Sou apaixonado por tecnologia e, nos últimos tempos, venho me aprofundando na �
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfonseca-dev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfonseca-dev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
 
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
+
+
