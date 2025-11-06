@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B0000"/>
-
 #  Pedro Fonseca
 
 **`Developer AI`**
@@ -48,7 +46,3 @@ Sou apaixonado por tecnologia e, nos Ãºltimos tempos, venho me aprofundando na Ã
 </p>
 
 </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
-
-
