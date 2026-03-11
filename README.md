@@ -1,17 +1,18 @@
-#  Pedro Fonseca
+#  Pedro Fonseca Martins
 
-**`Developer AI`**
+**`Developer | FullStack`**
 
-Me chamo Pedro Fonseca Martins, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio na ETEC, no curso técnico em Informática, e atualmente curso Engenharia da Computação na UNISAL.
+Me chamo Pedro Fonseca Martins. Concluí o ensino médio na ETEC, no curso técnico em Informática, e atualmente curso Engenharia da Computação na UNISAL.
 
-Sou apaixonado por tecnologia e, nos últimos tempos, venho me aprofundando na área de IA — especialmente no desenvolvimento de agentes inteligentes e soluções autônomas. Gosto de compartilhar meus aprendizados e projetos, seja pelo [GitHub](https://github.com/pfonseca-dev), [LinkedIn](https://www.linkedin.com/in/pedrof-martins/) ou até mostrando um pouco dos bastidores no [Instagram](https://www.instagram.com/fonsecaa.dev).
+Sou desenvolvedor Full Stack e apaixonado por tecnologia. Gosto de trabalhar na construção de aplicações completas, entendendo desde a lógica e estrutura dos sistemas até a forma como eles são utilizados na prática.
 
-  [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&titles=true)](https://www.instagram.com/fonsecaa.dev)
-  [![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/pedrof-martins/)
+Compartilho meus aprendizados, projetos e evolução na programação através do [GitHub](https://github.com/pfonseca-dev) e do [LinkedIn](https://www.linkedin.com/in/pedrof-martins/), além de praticar constantemente lógica de programação resolvendo desafios no [BreeCrowd]()
+
+[![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/pedrof-martins/)
 
 ---
 
-### Skills
+### 🚀 Skills
 
 
 <p align="center">
