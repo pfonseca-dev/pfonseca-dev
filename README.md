@@ -14,21 +14,21 @@ Compartilho meus aprendizados, projetos e evolução na programação através d
 
 ### 💻 Skills
 
-<table>
-<tr>
-<td align="center">
+<table style="border= none;" align="center">
+<tr style="border= none;">
+<td style="border= none;" align="center">
 
 ### Front-End
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react&perline=3"/>
 </td>
 
-<td align="center">
+<td style="border= none;" align="center" width="0%">
 
 ### Back-End
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,mysql,java&perline=3"/>
 </td>
 
-<td align="center">
+<td align="center" width="0%">
 
 ### Tolls
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,linux,notion&perline=3"/>
