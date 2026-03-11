@@ -8,42 +8,30 @@ Sou desenvolvedor Full Stack e apaixonado por tecnologia. Gosto de trabalhar na 
 
 Compartilho meus aprendizados, projetos e evolução na programação através do [GitHub](https://github.com/pfonseca-dev) e do [LinkedIn](https://www.linkedin.com/in/pedrof-martins/), além de praticar constantemente lógica de programação resolvendo desafios no [BreeCrowd]()
 
-[![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/pedrof-martins/)
+[![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pedrof-martins/)
 
 ---
 
-### 🚀 Skills
+### 💻 Skills
 
+<table>
+<tr>
+<td align="center">
 
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,python,javascript,c,arduino"
-    />
-  </a>
-</p>
+### Front-End
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react&perline=3"/>
+</td>
 
+<td align="center">
 
-<br/>
-<br/>
+### Back-End
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,mysql,java&perline=3"/>
+</td>
 
-### Statistics
+<td align="center">
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pfonseca-dev&show_icons=true&theme=dark" 
-  />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfonseca-dev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-</p>
+### Tolls
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,linux,notion&perline=3"/>
+</td>
+</tr>
+</table>
