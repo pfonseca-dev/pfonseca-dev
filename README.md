@@ -31,7 +31,7 @@ Compartilho meus aprendizados, projetos e evolução na programação através d
 <td align="center" width="0%">
 
 ### Tolls
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,linux,notion&perline=3"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,linux,notion,arduino&perline=3"/>
 </td>
 </tr>
 </table>
