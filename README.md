@@ -1,37 +1,88 @@
-#  Pedro Fonseca Martins
+# Pedro Fonseca Martins
 
-**`Developer | FullStack`**
+**`Back-end | Developer`**
 
-Me chamo Pedro Fonseca Martins. Concluí o ensino médio na ETEC, no curso técnico em Informática, e atualmente curso Engenharia da Computação na UNISAL.
+<p align="center">
+  <em>"Turning ideas into scalable and reliable systems."</em>
+</p>
 
-Sou desenvolvedor Full Stack e apaixonado por tecnologia. Gosto de trabalhar na construção de aplicações completas, entendendo desde a lógica e estrutura dos sistemas até a forma como eles são utilizados na prática.
-
-Compartilho meus aprendizados, projetos e evolução na programação através do [GitHub](https://github.com/pfonseca-dev) e do [LinkedIn](https://www.linkedin.com/in/pedrof-martins/), além de praticar constantemente lógica de programação resolvendo desafios no [BreeCrowd]()
-
-[![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pedrof-martins/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrof-martins/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://judge.beecrowd.com/pt/profile/1182767"><img src="https://img.shields.io/badge/BEECROWD-5A2D82?style=for-the-badge" /></a><a href="https://leetcode.com/u/pfonseca-dev/"><img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFE135" /></a>
+</p>
 
 ---
 
-### 💻 Skills
+## 👨‍💻 About Me
 
-<table style="border= none;" align="center">
-<tr style="border= none;">
-<td style="border= none;" align="center">
+**Computer Engineering** student at **UNISAL**, Lorena (SP), focusing on **Back-End Development**, system logic, API architecture, databases and software architecture.
 
-### Front-End
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react&perline=3"/>
-</td>
+I have practical experience developing web applications through academic and extension projects, including **LicitSys**, a platform created to modernize purchasing management for the Municipal Government of Cruzeiro-SP.
 
-<td style="border= none;" align="center" width="0%">
+Currently deepening my knowledge in:
 
-### Back-End
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,mysql,java&perline=3"/>
-</td>
+- Software Engineering
+- Back-End Development
+- Docker
+- Java
 
-<td align="center" width="0%">
+---
 
-### Tolls
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,linux,notion,arduino&perline=3"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,docker,linux,git" />
+</p>
+
+---
+
+## 🎓 Education
+
+**Bachelor’s Degree in Computer Engineering**  
+*Centro Universitário Salesiano de São Paulo — UNISAL*
+
+Education with a strong foundation in full stack development, with emphasis on back-end, databases, fundamentals of Machine Learning and AI, as well as UI/UX and HCI. Development oriented toward practical projects with real-world application.
+
+**Technical Degree in Internet Infrmatics**  
+*Prof. José Sant'Ana de Castro — ETEC*
+
+Technical education focused on web development fundamentals, programming logic, databases, and networking, with introductory experience in HTML, CSS, JavaScript, PHP, and MySQL.
+
+---
+
+## 💼 Experience
+
+**LicitSys**
+
+Procurement management platform developed through a university extension project in partnership with the City Hall of Cruzeiro-SP.
+
+**Technologies:**
+React • FastAPI • MySQL • Docker • Git
+
+**Highlights:**
+- Development of web application features
+- Front-End and Back-End integration
+- Database modeling
+- Authentication and authorization
+- Collaborative development with Git 
+
+**Parking Management System**
+
+Academic project developed to apply software engineering concepts and design patterns.
+
+**Technologies:**
+Java • UML • Git
+
+**Highlights:**
+- Application of GoF Design Patterns
+- Object-Oriented Programming
+- System modeling and architecture
+- Team collaboration using Git Flow
+
+---
+
+## 📊 Statistics
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=pfonseca-dev&theme=github-dark-dimmed&hide_border=true&border_radius=1&short_numbers=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
