@@ -1,13 +1,14 @@
 # Pedro Fonseca Martins
-
-**`FullStack Developer | Python`**
+**FullStack Developer | Python & Backend Enthusiast**
 
 <p align="center">
   <em>"Turning ideas into scalable and reliable systems."</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedrof-martins/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://judge.beecrowd.com/pt/profile/1182767"><img src="https://img.shields.io/badge/BEECROWD-5A2D82?style=for-the-badge" /></a><a href="https://leetcode.com/u/pfonseca-dev/"><img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFE135" /></a>
+  <a href="https://www.linkedin.com/in/pedrof-martins/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://judge.beecrowd.com/pt/profile/1182767"><img src="https://img.shields.io/badge/BEECROWD-5A2D82?style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/pfonseca-dev/"><img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFE135" /></a>
 </p>
 
 ---
@@ -20,9 +21,24 @@ I aim to build well-structured applications by applying **software development b
 
 ---
 
+## Tech Stack & Skills
+
+- **Backend:** Python, FastAPI, PostgreSQL, REST APIs
+- **Frontend:** React, JavaScript, TypeScript
+- **DevOps & Infrastructure:** Docker, Linux, Git
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,react,fastapi,postgres,docker,linux,git" />
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=pfonseca-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark">
+    <img src="https://github-stats-extended.vercel.app/api?username=pfonseca-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=pfonseca-dev&langs_count=3&theme=github_dark">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=pfonseca-dev&langs_count=3&theme=github_dark" alt="Top Langs" />
+  </a>
+</p>
 
