@@ -28,7 +28,7 @@ I aim to build well-structured applications by applying **software development b
 - **DevOps & Infrastructure:** Docker, Linux, Git
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,fastapi,postgres,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,fastapi,postgres,docker,linux,git,bash" />
 </p>
 
 ---
